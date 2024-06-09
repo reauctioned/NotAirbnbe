@@ -24,7 +24,7 @@ top: 22px;
 position: absolute;
 width: 530.74px;
 height: 310.38px;
-left: 357px;
+left: 30%   ;
 top: 77px;
 
 
@@ -141,9 +141,29 @@ color: #222222;
 position: absolute;
 width:  400px;
 height: 600px;
-left: 824px;
+left: 900px;
 top: 362px;
 top: 200px;
 
+
+}
+
+.card > img {
+ 
+position: absolute;
+width: 176px;
+height: 235px;
+left: 2%;
+top: 80%;
+border-radius: 9px;
+
+}
+
+.star{
+
+width: 14px;
+height: 14px;
+left: 424px;
+top: 765px;
 
 }
