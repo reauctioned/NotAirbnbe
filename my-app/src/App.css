@@ -1,0 +1,149 @@
+.Nav{
+position: absolute;
+width: 100%;
+height: 70px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.Nav--logo{
+position: absolute;
+width: 82.02px;
+height: 25.35px;
+left: 30px;
+top: 22px;
+}
+
+
+
+.body--img1{
+/* Group 77 */
+
+position: absolute;
+width: 530.74px;
+height: 310.38px;
+left: 357px;
+top: 77px;
+
+
+}
+
+.body--img2{
+
+
+position: absolute;
+width: 98.35px;
+height: 85.46px;
+left: 465.03px;
+top: 86.67px;
+
+
+border-radius: 8.95px;
+
+
+}
+
+.body--img3{
+
+position: absolute;
+width: 96.74px;
+height: 129.8px;
+left: 465.03px;
+top: 183.42px;
+
+
+border-radius: 8.95px;
+
+
+}
+
+.body--img4{
+
+
+position: absolute;
+width: 97.55px;
+height: 128.99px;
+left: 573.06px;
+top: 258.39px;
+
+
+border-radius: 8.95px;
+
+}
+
+.body--img5{
+
+
+/* image 27 */
+
+position: absolute;
+width: 97.55px;
+height: 128.99px;
+left: 573.06px;
+top: 117.31px;
+
+
+border-radius: 8.95px;
+
+
+
+border-radius: 8.95px;
+
+}
+
+.body > h1{
+
+
+position: absolute;
+width: 347px;
+height: 40px;
+left: 36px;
+top: 360px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+
+
+color: #000000;
+
+
+}
+
+.body > p{
+    /* Join unique interactive activities led by one-of-a-kind hosts—all without leaving home. */
+
+position: absolute;
+width: 320px;
+height: 56px;
+left: 36px;
+top: 416px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+color: #222222;
+
+
+}
+
+.body--img6{
+ 
+
+position: absolute;
+width:  400px;
+height: 600px;
+left: 824px;
+top: 362px;
+top: 200px;
+
+
+}
